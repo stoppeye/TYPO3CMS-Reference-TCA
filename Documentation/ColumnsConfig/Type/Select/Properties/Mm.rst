@@ -34,6 +34,15 @@ Select field with foreign table via MM table
 .. include:: /CodeSnippets/SelectSingle15.rst.txt
 
 
+
+MM table used in selectMultipleSideBySide
+=========================================
+
+.. include:: /Images/Rst/SelectMultiplesidebyside8.rst.txt
+
+.. include:: /CodeSnippets/SelectMultiplesidebyside8.rst.txt
+
+
 Related configurations
 ======================
 
