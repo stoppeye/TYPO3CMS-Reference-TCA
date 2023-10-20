@@ -18,6 +18,10 @@ Description
 
    The property is available on all common `TCA` types like `input` and `select` and so on.
 
+.. tip::
+   The description can be structured by adding newline characters, which will be
+   preserved and converted to :xml:`<br>` on output.
+
 Example
 =======
 
